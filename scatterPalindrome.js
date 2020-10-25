@@ -39,21 +39,3 @@ const scatterPalindrome = (str) => {
 }
 
 console.log(scatterPalindrome('aabb'))
-// "aabb"
-// result = []
-
-// i = 0; 
-// slice from i to j 
-    // j starts at i, j++
-    // check if str is palindrome, if yes push into result arr
-// a, aa, aab, aabb
-
-// idx = 1
-// a, ab, abb
-
-// idx = 2
-// b, bb
-
-// idx = 3
-// b
-
